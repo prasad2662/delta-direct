@@ -1,1 +1,1 @@
-# delta-direct
+demo class
